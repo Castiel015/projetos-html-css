@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+main > h1{
+    padding-left: 140px;
+}
+main p{
+    margin: auto;
+}
